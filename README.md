@@ -1,11 +1,6 @@
 # 🔫 KKona
 
 <img src="https://i.imgur.com/QOYueZX.gif" alt="KKona" />
-<img src="https://i.imgur.com/QOYueZX.gif" alt="KKona" />
-<img src="https://i.imgur.com/QOYueZX.gif" alt="KKona" />
-<img src="https://i.imgur.com/QOYueZX.gif" alt="KKona" />
-<img src="https://i.imgur.com/QOYueZX.gif" alt="KKona" />
-<img src="https://i.imgur.com/QOYueZX.gif" alt="KKona" />
 
 <table>
   <tr>
