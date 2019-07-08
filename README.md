@@ -25,5 +25,5 @@
 ### Running production
 
   ```sh
-  $ npm build && npm start
+  $ npm start
   ```
